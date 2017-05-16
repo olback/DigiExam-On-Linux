@@ -1,7 +1,7 @@
 # DigiExam on Linux
 
 Yes, you can run DigiExam on your Linux machine. How? You might ask.
-Well, after tinkering arround with Wine on Ubuntu 17.04 LTS I've made it work.
+Well, after tinkering arround with Wine on Ubuntu 17.04 LTS for a while I've managed to make it work.
 
 #### So what? Whats the problem?
 The problem is, DigiExam is a program used by schools to make sure students don't cheat when they're writing a test/essay. Running Running DigiExam on Linux with wine allows you to ALT-TAB or even run it in windowed mode. So DigiExam is not in fullscreen and even if it is, you can still ALT-TAB.

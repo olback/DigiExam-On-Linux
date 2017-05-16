@@ -1,4 +1,4 @@
-# DigiExam on Linux
+# [DigiExam](https://github.com/DigiExam) on Linux
 
 Yes, you can run DigiExam on your Linux machine. How? You might ask.
 Well, after tinkering arround with Wine on Ubuntu 17.04 LTS for a while I've managed to make it work.

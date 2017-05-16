@@ -23,7 +23,7 @@ Other Linux distros such as ElementaryOS look a lot like MacOS.
 DigiExam either has to either make a version that works nativly on Linux or make sure that it cannot run on Linux in a Wine environment. How? Well, thats up to the DigiExam developers.
 
 #### Screenshot
-!(https://raw.githubusercontent.com/olback/DigiExam-On-Linux/master/screenshot.png "DigiExam running on Ubuntu 17.04 LTS")
+![alt text](https://raw.githubusercontent.com/olback/DigiExam-On-Linux/master/screenshot.png "DigiExam running on Ubuntu 17.04 LTS")
 ### DigiExam
 [DigiExam.com](https://www.digiexam.com/)<br />
 [DigiExam on Twitter: @DigiExam](https://twitter.com/digiexam)

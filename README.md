@@ -26,4 +26,4 @@ DigiExam either has to either make a version that works nativly on Linux or make
 ![Failed to load image :(](https://raw.githubusercontent.com/olback/DigiExam-On-Linux/master/screenshot.png?token=AHqq6d9HtBSxzM0jrqjF8iu3GZpbaZVHks5ZJEE-wA%3D%3D "DigiExam running on Ubuntu 17.04 LTS")
 
 ### Are you a DigiExam dev and you'd like to know all the details?
-Contact me [here](https://olback.net/contact.php).
+Contact me [here](https://olback.net#contact) or [here](https://twitter.com/mrolback).

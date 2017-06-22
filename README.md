@@ -1,7 +1,7 @@
 # DigiExam on Linux
 
 Yes, you can run DigiExam on your Linux machine. How? You might ask.
-Well, after tinkering arround with Wine on Ubuntu 17.04 LTS for a while I've managed to make it work.
+Well, after tinkering arround with Wine on Ubuntu 17.04 for a while I've managed to make it work.
 (Yes, this works in VMs as well.)
 
 #### So what? Whats the problem?
@@ -23,7 +23,7 @@ Other Linux distros such as ElementaryOS look a lot like MacOS.
 DigiExam either has to either make a version that works nativly on Linux or make sure that it cannot run on Linux in a Wine environment. How? Well, thats up to the DigiExam developers.
 
 #### Screenshot
-![Failed to load image :(](https://raw.githubusercontent.com/olback/DigiExam-On-Linux/master/screenshot.png?token=AHqq6d9HtBSxzM0jrqjF8iu3GZpbaZVHks5ZJEE-wA%3D%3D "DigiExam running on Ubuntu 17.04 LTS")
+![Failed to load image :(](https://raw.githubusercontent.com/olback/DigiExam-On-Linux/master/screenshot.png?token=AHqq6d9HtBSxzM0jrqjF8iu3GZpbaZVHks5ZJEE-wA%3D%3D "DigiExam running on Ubuntu 17.04")
 
 ### Are you a DigiExam dev and you'd like to know all the details?
 Contact me [here](https://olback.net#contact) or [here](https://twitter.com/mrolback).
